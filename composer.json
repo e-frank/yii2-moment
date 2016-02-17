@@ -14,6 +14,6 @@
         "moment/moment":  "*"
     },
     "autoload": {
-        "psr-4": { "x1\\assets\\": "" }
+        "psr-4": { "x1\\assets\\moment\\": "" }
     }
 }
