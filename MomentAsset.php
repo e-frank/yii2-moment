@@ -1,5 +1,5 @@
 <?
-namespace x1\moment;
+namespace x1\assets;
 
 class MomentAsset extends \yii\web\AssetBundle
 {

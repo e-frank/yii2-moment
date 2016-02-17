@@ -11,9 +11,9 @@
         }
     ],
     "require": {
-        "moment/moment":  "*"
+        "moment/moment":  "2.*"
     },
     "autoload": {
-        "psr-4": { "x1\\moment\\": "" }
+        "psr-4": { "x1\\assets\\": "" }
     }
 }
