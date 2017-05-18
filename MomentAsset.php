@@ -1,4 +1,4 @@
-<?
+<?php
 namespace x1\assets\moment;
 
 class MomentAsset extends \yii\web\AssetBundle
